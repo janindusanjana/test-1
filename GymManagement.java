@@ -6,8 +6,8 @@ public class GymManagement{
     int personId;
     String name;
     String type;
-    int simple;
-    
+    int simple_2;
+  
   }
 
 }
