@@ -7,6 +7,7 @@ public class GymManagement{
     String name;
     String type;
     int simple_2;
+  
   }
 
 }
